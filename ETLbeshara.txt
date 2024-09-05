@@ -1,0 +1,2 @@
+Do etl jobs
+verify MIS tables data
